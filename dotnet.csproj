@@ -6,9 +6,8 @@
     <PackageReference Include="BuildBundlerMinifier" Version="2.6.362" />
     <PackageReference Include="HtmlAgilityPack" Version="1.6.5" />
     <PackageReference Include="NETStandard.Library" Version="2.0.1" />
-    <PackageReference Include="dotNetRDF" Version="1.0.12" />
+    <PackageReference Include="dotNetRDF" Version="2.0.0-pre10" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
-    <PackageReference Include="VDS.Common" Version="1.8.0" />
   </ItemGroup>
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
