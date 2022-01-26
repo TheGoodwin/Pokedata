@@ -1,0 +1,51 @@
+@{
+    Pokemon pokemon = (Pokemon)ViewData["Pokemon"];
+    ViewData["Title"] = pokemon.Name;
+}
+
+
+<div class="jumbotron text-center">
+    <h1>@ViewData["Title"]</h1>
+</div>
+
+<div class="img-div">
+    @if (pokemon.ImgURI != null) {
+        <img src=@pokemon.ImgURI/>
+    }
+</div>
+<div>
+<ul>
+    @{
+        if (pokemon.Height != null) {
+            <li>Taille : @pokemon.Height m</li>
+        } else {
+            <li>Taille : Inconnue</li>
+        }
+
+        if (pokemon.Weight != null) {
+            <li>Poids : @pokemon.Weight kg</li>
+        } else {
+            <li>Poids : Inconnu</li>
+        }
+
+        if (pokemon.Color != null) {
+            <li>Couleur : @pokemon.Color</li>
+        } else {
+            <li>Couleur : Inconnue</li>
+        }
+
+        if (pokemon.Comment != null) {
+            <li>Description : @pokemon.Comment</li>
+        } else {
+            <li>Description : Aucune</li>
+        }
+    }
+    <li>Types</li> 
+    <ul>
+        @foreach(String type in pokemon.PokemonTypes) {
+            <li>@type</li>
+        }
+    </ul>
+</ul>
+
+</div>

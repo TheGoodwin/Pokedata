@@ -1,0 +1,89 @@
+/home/jgoodwin/workspace/spokeql_dotnet/dotnet.csproj : warning NU1701: Package 'dotNetRDF 1.0.12' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.
+/home/jgoodwin/workspace/spokeql_dotnet/dotnet.csproj : warning NU1701: Package 'dotNetRDF 1.0.12' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.
+Hosting environment: Production
+Content root path: /home/jgoodwin/workspace/spokeql_dotnet
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+LOADED
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/data/Togepi.rdf
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/data/Togepi.n3
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/data/Togepi.jrdf
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/data/Togepi.json
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/data/Togepi.atom
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/data/Togepi.ntriples
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=text%2Fcsv
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=text%2Fcxml
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=application%2Fmicrodata%2Bjson
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=text%2Fhtml
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=application%2Fjson-ld
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=text%2Fx-html-script-ld%2Bjson
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#alternate , http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FTogepi%3E&amp;format=text%2Fx-html-script-turtle
+http://dbpedia.org/page/Togepi , http://xmlns.com/foaf/0.1/primarytopic , http://dbpedia.org/resource/Togepi
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#stylesheet , http://dbpedia.org/statics/css/bootstrap.min.css
+http://dbpedia.org/page/Togepi , http://www.w3.org/1999/xhtml/vocab#stylesheet , http://dbpedia.org/statics/css/dbpedia.css
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/abstract , Togepi (トゲピー Togepī, /ˈtoʊɡəpiː/) is a Pokémon in Nintendo and Game Freak's Pokémon franchise. Created by Ken Sugimori, Togepi first appeared in the Pokémon anime. It then appeared in the video games Pokémon Gold and Silver and subsequent sequels, later appearing in various merchandise, spinoff titles, and animated and printed adaptations of the franchise.@en
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/abstract , 25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يوليو 2016) توجيبي (بالإنكليزية:Togepi) هو مرافق ميستي في مسلسل بوكيمون.@ar
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/abstract , Togepi (in giapponese トゲピー Togepī, in tedesco e francese Togepi) è un Pokémon della Seconda generazione di tipo Folletto. Il suo numero identificativo Pokédex è 175. È uno dei Pokémon posseduti dalla capopalestra Misty. Nei videogiochi della seconda, terza e quarta generazione il protagonista ottiene un uovo di Togepi da un personaggio non giocante. Togepi è il primo Pokémon allevato nell'anime ed è il secondo Pokémon della seconda generazione apparso durante la serie, per via della presenza di Ho-Oh nel corso del primo episodio. Introdotto con il tipo Normale, ha acquisito il tipo Folletto a partire dalla sesta generazione. Sebbene sia un Pokémon Pallapunte, il Pokédex di Ash lo considera un "Pokémon Uovo", ovvero della stessa specie di Exeggcute e Chansey.@it
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/abstract , Togepi é uma das espécies presentes na franquia Pokémon, é um Pokémon do tipo Fada. Sua evolução é Togetic e sua ultima evolução é Togekiss.@pt
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/abstract , Togepi (Japans:トゲピー) is een pokémon uit de populaire gelijknamige anime-serie, alsook de computer- en kaartspellen. Hij werd bedacht door Ken Sugimori als een van de tweede generatie pokemon, en verscheen voor het eerst in de Pokémon tv-serie. Vervolgens verscheen hij in de Pokémon Gold en Silver spellen voor de Game Boy, en later tevens in andere producten en vervolgseries.@nl
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/abstract , 波克比（英文：Togepi；台灣譯名：波克比；香港譯名：小刺蛋）為神奇寶貝系列中的一種神奇寶貝，最先出現於神奇寶貝第二世代中。 原先為一般系的神奇寶貝，不過至第六世代起，牠與其進化型皆被更改為妖精系的神奇寶貝。@zh
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/thumbnail , http://en.wikipedia.org/wiki/Special:FilePath/Togepi.png?width=300
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/wikiPageExternalLink , http://www.pokemon.com/
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/wikiPageExternalLink , http://bulbapedia.bulbagarden.net/wiki/Togepi_(Pok%C3%A9mon)
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/wikiPageID , 581283@en
+http://dbpedia.org/resource/Togepi , http://dbpedia.org/ontology/wikiPageRevisionID , 740536449@en
+http://dbpedia.org/resource/Togepi , dbp:artist , http://dbpedia.org/resource/Ken_Sugimori
+http://dbpedia.org/resource/Togepi , dbp:firstgame , http://dbpedia.org/resource/Pok%C3%A9mon_Gold_and_Silver
+http://dbpedia.org/resource/Togepi , dbp:series , http://dbpedia.org/resource/Pok%C3%A9mon_(video_game_series)
+http://dbpedia.org/resource/Togepi , dbp:voiceactor , http://dbpedia.org/resource/Satomi_K%C5%8Drogi
+http://dbpedia.org/resource/Togepi , http://purl.org/dc/terms/subject , http://dbpedia.org/resource/Category:Child_characters_in_video_games
+http://dbpedia.org/resource/Togepi , http://purl.org/dc/terms/subject , http://dbpedia.org/resource/Category:Fictional_fairies_and_sprites
+http://dbpedia.org/resource/Togepi , http://purl.org/dc/terms/subject , http://dbpedia.org/resource/Category:Fictional_empaths
+http://dbpedia.org/resource/Togepi , http://purl.org/dc/terms/subject , http://dbpedia.org/resource/Category:Video_game_characters_introduced_in_1999
+http://dbpedia.org/resource/Togepi , http://purl.org/dc/terms/subject , http://dbpedia.org/resource/Category:Pok%C3%A9mon_species
+http://dbpedia.org/resource/Togepi , http://purl.org/linguistics/gold/hypernym , http://dbpedia.org/resource/Pok%C3%A9mon
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/WikicatFictionalFairiesAndSprites
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Ability105616246
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Abstraction100002137
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Belief105941423
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Cognition100023271
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Content105809192
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Creativity105624700
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Fairy109540430
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/FictionalCharacter109587565
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/ImaginaryBeing109483738
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/Imagination105625465
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/PsychologicalFeature100023100
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/SpiritualBeing109504135
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/WikicatChildCharactersInVideoGames
+http://dbpedia.org/resource/Togepi , http://www.w3.org/1999/02/22-rdf-syntax-ns#type , http://dbpedia.org/class/yago/WikicatVideoGameCharactersIntroducedIn1999
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#comment , Togepi (トゲピー Togepī, /ˈtoʊɡəpiː/) is a Pokémon in Nintendo and Game Freak's Pokémon franchise. Created by Ken Sugimori, Togepi first appeared in the Pokémon anime. It then appeared in the video games Pokémon Gold and Silver and subsequent sequels, later appearing in various merchandise, spinoff titles, and animated and printed adaptations of the franchise.@en
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#comment , 25بك المحتوى هنا ينقصه الاستشهاد بمصادر. يرجى إيراد مصادر موثوق بها. أي معلومات غير موثقة يمكن التشكيك بها وإزالتها. (يوليو 2016) توجيبي (بالإنكليزية:Togepi) هو مرافق ميستي في مسلسل بوكيمون.@ar
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#comment , Togepi é uma das espécies presentes na franquia Pokémon, é um Pokémon do tipo Fada. Sua evolução é Togetic e sua ultima evolução é Togekiss.@pt
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#comment , Togepi (Japans:トゲピー) is een pokémon uit de populaire gelijknamige anime-serie, alsook de computer- en kaartspellen. Hij werd bedacht door Ken Sugimori als een van de tweede generatie pokemon, en verscheen voor het eerst in de Pokémon tv-serie. Vervolgens verscheen hij in de Pokémon Gold en Silver spellen voor de Game Boy, en later tevens in andere producten en vervolgseries.@nl
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#comment , 波克比（英文：Togepi；台灣譯名：波克比；香港譯名：小刺蛋）為神奇寶貝系列中的一種神奇寶貝，最先出現於神奇寶貝第二世代中。 原先為一般系的神奇寶貝，不過至第六世代起，牠與其進化型皆被更改為妖精系的神奇寶貝。@zh
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#comment , Togepi (in giapponese トゲピー Togepī, in tedesco e francese Togepi) è un Pokémon della Seconda generazione di tipo Folletto. Il suo numero identificativo Pokédex è 175. È uno dei Pokémon posseduti dalla capopalestra Misty. Nei videogiochi della seconda, terza e quarta generazione il protagonista ottiene un uovo di Togepi da un personaggio non giocante. Togepi è il primo Pokémon allevato nell'anime ed è il secondo Pokémon della seconda generazione apparso durante la serie, per via della presenza di Ho-Oh nel corso del primo episodio.@it
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , Togepi@en
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , توجيبي@ar
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , Togepi@it
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , トゲピー@ja
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , Togepi (Pokémon)@nl
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , Togepi@pt
+http://dbpedia.org/resource/Togepi , http://www.w3.org/2000/01/rdf-schema#label , 波克比@zh
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://www.wikidata.org/entity/Q2273579
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://it.dbpedia.org/resource/Togepi
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://ja.dbpedia.org/resource/%E3%83%88%E3%82%B2%E3%83%94%E3%83%BC
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://nl.dbpedia.org/resource/Togepi_(Pok%C3%A9mon)
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://pt.dbpedia.org/resource/Togepi
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://wikidata.dbpedia.org/resource/Q2273579
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://rdf.freebase.com/ns/m.02s5fh
+http://dbpedia.org/resource/Togepi , owl:sameAs , http://yago-knowledge.org/resource/Togepi
+http://dbpedia.org/resource/Togepi , http://www.w3.org/ns/prov#wasDerivedFrom , http://en.wikipedia.org/wiki/Togepi?oldid=740536449
+http://dbpedia.org/resource/Togepi , http://xmlns.com/foaf/0.1/depiction , http://en.wikipedia.org/wiki/Special:FilePath/Togepi.png
+http://dbpedia.org/resource/Togepi , http://xmlns.com/foaf/0.1/homepage , http://www.pokemon.com/
+http://dbpedia.org/resource/Togepi , http://xmlns.com/foaf/0.1/isPrimaryTopicOf , http://en.wikipedia.org/wiki/Togepi
+http://dbpedia.org/resource/Togepy , http://dbpedia.org/ontology/wikiPageRedirects , http://dbpedia.org/resource/Togepi
+http://dbpedia.org/resource/Togepi_(Pok%C3%A9mon) , http://dbpedia.org/ontology/wikiPageRedirects , http://dbpedia.org/resource/Togepi
+http://en.wikipedia.org/wiki/Togepi , http://xmlns.com/foaf/0.1/primaryTopic , http://dbpedia.org/resource/Togepi
+http://dbpedia.org/page/Togepi , http://purl.org/dc/terms/conformsTo , http://www.w3.org/TR/rdfa-syntax
+Application is shutting down...

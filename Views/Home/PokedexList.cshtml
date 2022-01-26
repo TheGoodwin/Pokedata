@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Liste des pokedex";
+}
+
+<div class="jumbotron text-center">
+    <h1>@ViewData["Title"]</h1>
+    <p>Recherche par pokedex !</p>
+</div>
+@{
+    IList<Pokedex> PokedexList = (IList<Pokedex>)ViewData["PokedexList"];
+    foreach (Pokedex pokedex in PokedexList) {
+    <div class="container">
+        <div class="row">
+            <div class ="col-md-6">
+                <p>
+                <div class = "media">
+                    <div class="media-left media-middle">
+                        <a asp-area="" asp-controller="Home" asp-action="Pokedex" asp-route-id=@pokedex.Name>
+                            <img class="media-object custom-media" src="~/images/pokedex.png" height="100px" width="100px">
+                        </a>
+                    </div>
+                    <div class="media-body media-middle">
+                        <h2><a asp-area="" asp-controller="Home" asp-action="Pokedex" asp-route-id=@pokedex.Name>@pokedex.Name</a></h2>
+                    </div>
+                </div>
+                </p>
+            </div>
+        </div>
+    </div>
+    }
+}

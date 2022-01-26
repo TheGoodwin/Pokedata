@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = ((Pokedex)ViewData["Pokedex"]).Name;
+}
+<div class="jumbotron text-center">
+    <h1>@ViewData["Title"]</h1>
+    <p>Liste des Pokémons !</p>
+</div>
+<ul>
+@{
+    IDictionary<Int64,Pokemon> PokemonList = (IDictionary<Int64,Pokemon>)((Pokedex)ViewData["Pokedex"]).Pokemons;
+    @foreach (KeyValuePair<Int64,Pokemon> pair in PokemonList) {
+        Pokemon pokemon = pair.Value;
+        <div class="container">
+            <div class="row">
+                <div class ="col-md-6">
+                    <p>
+                    <div class = "media">
+                        <div class="media-left media-middle">
+                            <a asp-area="" asp-controller="Home" asp-action="Pokemon" asp-route-id=@pokemon.Name>
+                                <img class="media-object custom-media" src="~/images/pokeball.png" height="50px" width="50px">
+                            </a>
+                        </div>
+                        <div class="media-body media-middle">
+                            <h4><a asp-area="" asp-controller="Home" asp-action="Pokemon" asp-route-id=@pokemon.Name>@pair.Key - @pokemon.Name</a></h4>
+                        </div>
+                    </div>
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+}
+</ul>
